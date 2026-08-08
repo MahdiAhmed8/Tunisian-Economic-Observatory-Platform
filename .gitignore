@@ -40,3 +40,8 @@ next-env.d.ts
 /.wrangler/
 /outputs/
 /work/
+/.streamlit.out.log
+/.streamlit.err.log
+*.tgz
+__pycache__/
+*.py[cod]

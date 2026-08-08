@@ -1,36 +1,38 @@
 # Tunisian Economic Observatory
 
-An interactive, plain-language dashboard for exploring Tunisia's economic evolution and comparing it with Algeria, Morocco, Egypt, Jordan, and Türkiye.
+An interactive dashboard built with the requested stack: **Python, Pandas, Plotly, and Streamlit**.
 
-## What is included
+## Run the dashboard
 
-- Historical GDP growth, inflation, unemployment, debt, trade, education, and health indicators
-- Latest official Tunisia snapshot from INS and the Ministry of Finance
-- Country comparison controls and a historical context timeline
-- Automatic descriptions of the latest changes
-- Downloadable CSV, JSON, and Markdown snapshot report
-- A reproducible Python/Pandas data refresh pipeline with raw responses, processed tables, definitions, and source URLs
+```powershell
+python -m pip install -r requirements.txt
+streamlit run streamlit_app.py
+```
 
-## Refresh the data
+Streamlit will print a local URL, normally `http://localhost:8501`.
+
+## Refresh the source data
 
 ```powershell
 python scripts/fetch_data.py
 ```
 
-The refresh script writes untouched World Bank responses to `data/raw`, tidy tables to `data/processed`, and browser-ready exports to `public/data`. See `data/README.md` for the full provenance notes.
+The refresh pipeline uses Pandas to transform World Bank API responses into tidy CSV and JSON files. It writes:
 
-## Run locally
+- Untouched responses and archived official releases to `data/raw`
+- Analysis-ready tables to `data/processed`
+- Browser-ready exports to `public/data`
 
-```powershell
-npm install
-npm run dev
-```
+See `data/README.md` for provenance, definitions, and measurement cautions.
 
-The interface is built with React/vinext and native SVG charts. Python and Pandas handle the data preparation; the World Bank API is the main comparable-data source.
+## Dashboard capabilities
 
-## Source boundaries
+- GDP growth, inflation, unemployment, public debt, trade, education, and health
+- Historical comparisons with Algeria, Morocco, Egypt, Jordan, and Türkiye
+- Interactive Plotly time-series and ranking charts
+- Plain-language automatic explanations
+- Historical context timeline
+- Downloadable selections, full datasets, and Markdown reports
+- Separate treatment of comparable annual series and newer Tunisian national releases
 
-- World Bank WDI annual series support like-for-like historical comparisons.
-- Tunisia INS releases supply newer monthly and quarterly headlines.
-- The Ministry of Finance supplies the latest public-debt headline.
-- National and international series can use different definitions. The dashboard keeps them visibly separate and does not interpolate missing observations.
+The earlier React/Sites prototype remains in `app/` only as a preserved prototype. `streamlit_app.py` is the primary requested implementation.
