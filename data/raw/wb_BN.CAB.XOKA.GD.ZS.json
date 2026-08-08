@@ -1,0 +1,3468 @@
+[
+  {
+    "page": 1,
+    "pages": 1,
+    "per_page": 20000,
+    "total": 216,
+    "sourceid": "2",
+    "lastupdated": "2026-07-13"
+  },
+  [
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "countryiso3code": "DZA",
+      "date": "2025",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "countryiso3code": "DZA",
+      "date": "2024",
+      "value": -1.0224994485325,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "countryiso3code": "DZA",
+      "date": "2023",
+      "value": 2.62033732399996,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "countryiso3code": "DZA",
+      "date": "2022",
+      "value": 8.62297009518782,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "countryiso3code": "DZA",
+      "date": "2021",
+      "value": -2.42326388144806,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "countryiso3code": "DZA",
+      "date": "2020",
+      "value": -11.0309095376359,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "countryiso3code": "DZA",
+      "date": "2019",
+      "value": -8.76373598794008,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "countryiso3code": "DZA",
+      "date": "2018",
+      "value": -8.68941296193564,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "countryiso3code": "DZA",
+      "date": "2017",
+      "value": -11.6217683736912,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "countryiso3code": "DZA",
+      "date": "2016",
+      "value": -14.4962877563746,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "countryiso3code": "DZA",
+      "date": "2015",
+      "value": -14.4205446442816,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "countryiso3code": "DZA",
+      "date": "2014",
+      "value": -3.8772158836163,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "countryiso3code": "DZA",
+      "date": "2013",
+      "value": 0.517147116303439,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "countryiso3code": "DZA",
+      "date": "2012",
+      "value": 5.3237110694236,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "countryiso3code": "DZA",
+      "date": "2011",
+      "value": 8.09495300569721,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "countryiso3code": "DZA",
+      "date": "2010",
+      "value": 6.87361929280343,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "countryiso3code": "DZA",
+      "date": "2009",
+      "value": 0.287169379874169,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "countryiso3code": "DZA",
+      "date": "2008",
+      "value": 18.8233635111302,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "countryiso3code": "DZA",
+      "date": "2007",
+      "value": 21.3033457890387,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "countryiso3code": "DZA",
+      "date": "2006",
+      "value": 23.4985369430055,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "countryiso3code": "DZA",
+      "date": "2005",
+      "value": 19.7857720899622,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "countryiso3code": "DZA",
+      "date": "2004",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "countryiso3code": "DZA",
+      "date": "2003",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "countryiso3code": "DZA",
+      "date": "2002",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "countryiso3code": "DZA",
+      "date": "2001",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "countryiso3code": "DZA",
+      "date": "2000",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "countryiso3code": "DZA",
+      "date": "1999",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "countryiso3code": "DZA",
+      "date": "1998",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "countryiso3code": "DZA",
+      "date": "1997",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "countryiso3code": "DZA",
+      "date": "1996",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "countryiso3code": "DZA",
+      "date": "1995",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "countryiso3code": "DZA",
+      "date": "1994",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "countryiso3code": "DZA",
+      "date": "1993",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "countryiso3code": "DZA",
+      "date": "1992",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "countryiso3code": "DZA",
+      "date": "1991",
+      "value": 5.17702797301749,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "countryiso3code": "DZA",
+      "date": "1990",
+      "value": 2.2889527648555,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2025",
+      "value": -3.81547628555514,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2024",
+      "value": -5.68596234093524,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2023",
+      "value": -3.17338763053558,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2022",
+      "value": -2.2100904275198,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2021",
+      "value": -4.38240299812001,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2020",
+      "value": -3.70903990583375,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2019",
+      "value": -3.20758543154938,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2018",
+      "value": -2.93164483711978,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2017",
+      "value": -3.19681566782461,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2016",
+      "value": -6.16465951871263,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2015",
+      "value": -5.23529137853431,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2014",
+      "value": -1.94849131455399,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2013",
+      "value": -1.22513249838744,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2012",
+      "value": -2.49788021735236,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2011",
+      "value": -2.32378812632193,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2010",
+      "value": -2.05668307641306,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2009",
+      "value": -1.7707391095759,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2008",
+      "value": -0.868821887213847,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2007",
+      "value": 0.315552631578947,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2006",
+      "value": 2.45322162862231,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2005",
+      "value": 2.34529559888579,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2004",
+      "value": 4.97788419534309,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2003",
+      "value": 4.66231377245509,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2002",
+      "value": 0.730979150171549,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2001",
+      "value": -0.401718427655422,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2000",
+      "value": -0.972570273448986,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "1999",
+      "value": -1.80221287386216,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "1998",
+      "value": -3.02491579679889,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "1997",
+      "value": -0.905827378713802,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "1996",
+      "value": -0.283898866608544,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "1995",
+      "value": -0.422212745098039,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "1994",
+      "value": 0.0597325714285714,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "1993",
+      "value": 5.44885051546392,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "1992",
+      "value": 7.81250251617541,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "1991",
+      "value": 9.010952,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "1990",
+      "value": 5.41428288100209,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "countryiso3code": "JOR",
+      "date": "2025",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "countryiso3code": "JOR",
+      "date": "2024",
+      "value": -5.33366328480029,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "countryiso3code": "JOR",
+      "date": "2023",
+      "value": -3.25589967062863,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "countryiso3code": "JOR",
+      "date": "2022",
+      "value": -7.39189539188183,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "countryiso3code": "JOR",
+      "date": "2021",
+      "value": -7.33213017137509,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "countryiso3code": "JOR",
+      "date": "2020",
+      "value": -5.22619044169868,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "countryiso3code": "JOR",
+      "date": "2019",
+      "value": -1.58889950651918,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "countryiso3code": "JOR",
+      "date": "2018",
+      "value": -6.24582575623598,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "countryiso3code": "JOR",
+      "date": "2017",
+      "value": -9.64699161865138,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "countryiso3code": "JOR",
+      "date": "2016",
+      "value": -8.81657895710529,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "countryiso3code": "JOR",
+      "date": "2015",
+      "value": -8.18461267567615,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "countryiso3code": "JOR",
+      "date": "2014",
+      "value": -6.43399981653877,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "countryiso3code": "JOR",
+      "date": "2013",
+      "value": -9.25155039516621,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "countryiso3code": "JOR",
+      "date": "2012",
+      "value": -13.5170565963848,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "countryiso3code": "JOR",
+      "date": "2011",
+      "value": -9.05634436432946,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "countryiso3code": "JOR",
+      "date": "2010",
+      "value": -6.23104500049183,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "countryiso3code": "JOR",
+      "date": "2009",
+      "value": -4.52688493361161,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "countryiso3code": "JOR",
+      "date": "2008",
+      "value": -8.00749721112248,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "countryiso3code": "JOR",
+      "date": "2007",
+      "value": -16.800812979254,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "countryiso3code": "JOR",
+      "date": "2006",
+      "value": -11.4627147425135,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "countryiso3code": "JOR",
+      "date": "2005",
+      "value": -18.0414274312333,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "countryiso3code": "JOR",
+      "date": "2004",
+      "value": 0.343467252781521,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "countryiso3code": "JOR",
+      "date": "2003",
+      "value": 11.7553354258968,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "countryiso3code": "JOR",
+      "date": "2002",
+      "value": 5.23147049546403,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "countryiso3code": "JOR",
+      "date": "2001",
+      "value": -0.267729842032371,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "countryiso3code": "JOR",
+      "date": "2000",
+      "value": 0.325990723323388,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "countryiso3code": "JOR",
+      "date": "1999",
+      "value": 4.96858937749857,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "countryiso3code": "JOR",
+      "date": "1998",
+      "value": 0.178259474491069,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "countryiso3code": "JOR",
+      "date": "1997",
+      "value": 0.404881941876083,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "countryiso3code": "JOR",
+      "date": "1996",
+      "value": -3.20262236338464,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "countryiso3code": "JOR",
+      "date": "1995",
+      "value": -3.84422611567063,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "countryiso3code": "JOR",
+      "date": "1994",
+      "value": -6.38176192342058,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "countryiso3code": "JOR",
+      "date": "1993",
+      "value": -11.2209373919821,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "countryiso3code": "JOR",
+      "date": "1992",
+      "value": -15.7267736071471,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "countryiso3code": "JOR",
+      "date": "1991",
+      "value": -9.05843749915752,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "countryiso3code": "JOR",
+      "date": "1990",
+      "value": -5.4598359035703,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2025",
+      "value": -2.49808221535456,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2024",
+      "value": -1.23072108998601,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2023",
+      "value": -1.04767760599469,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2022",
+      "value": -3.6574911910038,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2021",
+      "value": -2.35786783699057,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2020",
+      "value": -1.1275993199651,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2019",
+      "value": -3.4182057355437,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2018",
+      "value": -4.87290163435469,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2017",
+      "value": -3.10210665362039,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2016",
+      "value": -3.74613174513,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2015",
+      "value": -1.95690775142638,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2014",
+      "value": -5.53783287947428,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2013",
+      "value": -6.77731894447504,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2012",
+      "value": -8.95034696939187,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2011",
+      "value": -7.26703537698178,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2010",
+      "value": -3.89149487244856,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2009",
+      "value": -4.91456971921294,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2008",
+      "value": -4.4474051229375,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2007",
+      "value": -0.140355839695735,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2006",
+      "value": 1.85973036169923,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2005",
+      "value": 1.51129572542934,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2004",
+      "value": 1.46649924876604,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2003",
+      "value": 2.72583245907781,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2002",
+      "value": 3.13718804047296,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2001",
+      "value": 3.67558331729075,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2000",
+      "value": -1.10387975127873,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "1999",
+      "value": -0.360657901889276,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "1998",
+      "value": -0.309237465352601,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "1997",
+      "value": -0.222808698229,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "1996",
+      "value": 0.0810758584150156,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "1995",
+      "value": -3.03845005048267,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "1994",
+      "value": -2.03049106287262,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "1993",
+      "value": -1.6469906370207,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "1992",
+      "value": -1.2834370400402,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "1991",
+      "value": -1.27998993380056,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "1990",
+      "value": -0.648031086262141,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "countryiso3code": "TUN",
+      "date": "2025",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "countryiso3code": "TUN",
+      "date": "2024",
+      "value": -1.50801033952852,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "countryiso3code": "TUN",
+      "date": "2023",
+      "value": -2.30371483601794,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "countryiso3code": "TUN",
+      "date": "2022",
+      "value": -8.83429553808937,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "countryiso3code": "TUN",
+      "date": "2021",
+      "value": -5.88456562547468,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "countryiso3code": "TUN",
+      "date": "2020",
+      "value": -6.01234016088557,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "countryiso3code": "TUN",
+      "date": "2019",
+      "value": -8.04912453318917,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "countryiso3code": "TUN",
+      "date": "2018",
+      "value": -10.7946228980082,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "countryiso3code": "TUN",
+      "date": "2017",
+      "value": -10.0143611259515,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "countryiso3code": "TUN",
+      "date": "2016",
+      "value": -8.52887305480808,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "countryiso3code": "TUN",
+      "date": "2015",
+      "value": -8.57094815049074,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "countryiso3code": "TUN",
+      "date": "2014",
+      "value": -8.87794509825977,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "countryiso3code": "TUN",
+      "date": "2013",
+      "value": -7.96677847902681,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "countryiso3code": "TUN",
+      "date": "2012",
+      "value": -7.86572520912914,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "countryiso3code": "TUN",
+      "date": "2011",
+      "value": -7.03556585573611,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "countryiso3code": "TUN",
+      "date": "2010",
+      "value": -4.55447131361942,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "countryiso3code": "TUN",
+      "date": "2009",
+      "value": -2.83909252656909,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "countryiso3code": "TUN",
+      "date": "2008",
+      "value": -3.81468880111158,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "countryiso3code": "TUN",
+      "date": "2007",
+      "value": -2.35618464912073,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "countryiso3code": "TUN",
+      "date": "2006",
+      "value": -1.80172304518295,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "countryiso3code": "TUN",
+      "date": "2005",
+      "value": -0.927371928635414,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "countryiso3code": "TUN",
+      "date": "2004",
+      "value": -1.41663593407068,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "countryiso3code": "TUN",
+      "date": "2003",
+      "value": -2.66077074311872,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "countryiso3code": "TUN",
+      "date": "2002",
+      "value": -3.22389381333494,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "countryiso3code": "TUN",
+      "date": "2001",
+      "value": -3.80893714007523,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "countryiso3code": "TUN",
+      "date": "2000",
+      "value": -3.82558496867724,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "countryiso3code": "TUN",
+      "date": "1999",
+      "value": -1.92535218512776,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "countryiso3code": "TUN",
+      "date": "1998",
+      "value": -3.09737186587453,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "countryiso3code": "TUN",
+      "date": "1997",
+      "value": -2.86792629545459,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "countryiso3code": "TUN",
+      "date": "1996",
+      "value": -2.43885725476728,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "countryiso3code": "TUN",
+      "date": "1995",
+      "value": -4.2925749806772,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "countryiso3code": "TUN",
+      "date": "1994",
+      "value": -3.43370923202334,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "countryiso3code": "TUN",
+      "date": "1993",
+      "value": -9.05681266464247,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "countryiso3code": "TUN",
+      "date": "1992",
+      "value": -7.1210701466254,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "countryiso3code": "TUN",
+      "date": "1991",
+      "value": -3.58997627267365,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "countryiso3code": "TUN",
+      "date": "1990",
+      "value": -3.77018867031426,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkiye"
+      },
+      "countryiso3code": "TUR",
+      "date": "2025",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkiye"
+      },
+      "countryiso3code": "TUR",
+      "date": "2024",
+      "value": -0.766008235540632,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkiye"
+      },
+      "countryiso3code": "TUR",
+      "date": "2023",
+      "value": -3.63367003503212,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkiye"
+      },
+      "countryiso3code": "TUR",
+      "date": "2022",
+      "value": -4.99763806227356,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkiye"
+      },
+      "countryiso3code": "TUR",
+      "date": "2021",
+      "value": -0.74064931592423,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkiye"
+      },
+      "countryiso3code": "TUR",
+      "date": "2020",
+      "value": -4.22284721473811,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkiye"
+      },
+      "countryiso3code": "TUR",
+      "date": "2019",
+      "value": 1.9351600379275,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkiye"
+      },
+      "countryiso3code": "TUR",
+      "date": "2018",
+      "value": -1.85233343060557,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkiye"
+      },
+      "countryiso3code": "TUR",
+      "date": "2017",
+      "value": -4.06783613710293,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkiye"
+      },
+      "countryiso3code": "TUR",
+      "date": "2016",
+      "value": -2.54530792537505,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkiye"
+      },
+      "countryiso3code": "TUR",
+      "date": "2015",
+      "value": -2.46735825450658,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkiye"
+      },
+      "countryiso3code": "TUR",
+      "date": "2014",
+      "value": -3.40746259930754,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkiye"
+      },
+      "countryiso3code": "TUR",
+      "date": "2013",
+      "value": -5.12686124176872,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkiye"
+      },
+      "countryiso3code": "TUR",
+      "date": "2012",
+      "value": -4.72096418758118,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkiye"
+      },
+      "countryiso3code": "TUR",
+      "date": "2011",
+      "value": -8.81351105932507,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkiye"
+      },
+      "countryiso3code": "TUR",
+      "date": "2010",
+      "value": -5.70254261669491,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkiye"
+      },
+      "countryiso3code": "TUR",
+      "date": "2009",
+      "value": -1.73697758122388,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkiye"
+      },
+      "countryiso3code": "TUR",
+      "date": "2008",
+      "value": -5.0844969449165,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkiye"
+      },
+      "countryiso3code": "TUR",
+      "date": "2007",
+      "value": -5.39177822047968,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkiye"
+      },
+      "countryiso3code": "TUR",
+      "date": "2006",
+      "value": -5.5679426761279,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkiye"
+      },
+      "countryiso3code": "TUR",
+      "date": "2005",
+      "value": -4.12736838327371,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkiye"
+      },
+      "countryiso3code": "TUR",
+      "date": "2004",
+      "value": -3.46160310805252,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkiye"
+      },
+      "countryiso3code": "TUR",
+      "date": "2003",
+      "value": -2.39510781690365,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkiye"
+      },
+      "countryiso3code": "TUR",
+      "date": "2002",
+      "value": -0.259990521546323,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkiye"
+      },
+      "countryiso3code": "TUR",
+      "date": "2001",
+      "value": 1.85959025093731,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkiye"
+      },
+      "countryiso3code": "TUR",
+      "date": "2000",
+      "value": -3.61057524589502,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkiye"
+      },
+      "countryiso3code": "TUR",
+      "date": "1999",
+      "value": -0.360379399136068,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkiye"
+      },
+      "countryiso3code": "TUR",
+      "date": "1998",
+      "value": 0.724544822196581,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkiye"
+      },
+      "countryiso3code": "TUR",
+      "date": "1997",
+      "value": -0.999933462545818,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkiye"
+      },
+      "countryiso3code": "TUR",
+      "date": "1996",
+      "value": -0.973371226633304,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkiye"
+      },
+      "countryiso3code": "TUR",
+      "date": "1995",
+      "value": -0.99616690058046,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkiye"
+      },
+      "countryiso3code": "TUR",
+      "date": "1994",
+      "value": 2.01377036999334,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkiye"
+      },
+      "countryiso3code": "TUR",
+      "date": "1993",
+      "value": -3.56565306523328,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkiye"
+      },
+      "countryiso3code": "TUR",
+      "date": "1992",
+      "value": -0.612175223712419,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkiye"
+      },
+      "countryiso3code": "TUR",
+      "date": "1991",
+      "value": 0.165524841501632,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "BN.CAB.XOKA.GD.ZS",
+        "value": "Current account balance (% of GDP)"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkiye"
+      },
+      "countryiso3code": "TUR",
+      "date": "1990",
+      "value": -1.74238577195045,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    }
+  ]
+]

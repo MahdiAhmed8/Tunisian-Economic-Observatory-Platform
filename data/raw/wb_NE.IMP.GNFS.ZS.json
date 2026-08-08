@@ -1,0 +1,3468 @@
+[
+  {
+    "page": 1,
+    "pages": 1,
+    "per_page": 20000,
+    "total": 216,
+    "sourceid": "2",
+    "lastupdated": "2026-07-13"
+  },
+  [
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "countryiso3code": "DZA",
+      "date": "2025",
+      "value": 22.1441688566065,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "countryiso3code": "DZA",
+      "date": "2024",
+      "value": 20.2821940516889,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "countryiso3code": "DZA",
+      "date": "2023",
+      "value": 19.9497379768844,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "countryiso3code": "DZA",
+      "date": "2022",
+      "value": 20.3985331920556,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "countryiso3code": "DZA",
+      "date": "2021",
+      "value": 23.3926919693657,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "countryiso3code": "DZA",
+      "date": "2020",
+      "value": 24.8545554509197,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "countryiso3code": "DZA",
+      "date": "2019",
+      "value": 26.0989006586763,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "countryiso3code": "DZA",
+      "date": "2018",
+      "value": 29.0130619390143,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "countryiso3code": "DZA",
+      "date": "2017",
+      "value": 29.4871366540912,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "countryiso3code": "DZA",
+      "date": "2016",
+      "value": 31.2742448207328,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "countryiso3code": "DZA",
+      "date": "2015",
+      "value": 32.676480909369,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "countryiso3code": "DZA",
+      "date": "2014",
+      "value": 29.3040555963989,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "countryiso3code": "DZA",
+      "date": "2013",
+      "value": 28.3516432281546,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "countryiso3code": "DZA",
+      "date": "2012",
+      "value": 26.374847332557,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "countryiso3code": "DZA",
+      "date": "2011",
+      "value": 26.2320035517219,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "countryiso3code": "DZA",
+      "date": "2010",
+      "value": 28.5029863779305,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "countryiso3code": "DZA",
+      "date": "2009",
+      "value": 31.6987484527475,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "countryiso3code": "DZA",
+      "date": "2008",
+      "value": 25.3813104447207,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "countryiso3code": "DZA",
+      "date": "2007",
+      "value": 22.8253177285743,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "countryiso3code": "DZA",
+      "date": "2006",
+      "value": 20.1511576995534,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "countryiso3code": "DZA",
+      "date": "2005",
+      "value": 22.4691773220766,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "countryiso3code": "DZA",
+      "date": "2004",
+      "value": 22.9650381113499,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "countryiso3code": "DZA",
+      "date": "2003",
+      "value": 22.1000717757446,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "countryiso3code": "DZA",
+      "date": "2002",
+      "value": 23.452441183911,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "countryiso3code": "DZA",
+      "date": "2001",
+      "value": 20.4084177219191,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "countryiso3code": "DZA",
+      "date": "2000",
+      "value": 20.7886259146931,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "countryiso3code": "DZA",
+      "date": "1999",
+      "value": 22.7789962195023,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "countryiso3code": "DZA",
+      "date": "1998",
+      "value": 22.516096548704,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "countryiso3code": "DZA",
+      "date": "1997",
+      "value": 21.3376001260742,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "countryiso3code": "DZA",
+      "date": "1996",
+      "value": 23.9446995515946,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "countryiso3code": "DZA",
+      "date": "1995",
+      "value": 28.9962292290876,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "countryiso3code": "DZA",
+      "date": "1994",
+      "value": 26.0537125425428,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "countryiso3code": "DZA",
+      "date": "1993",
+      "value": 23.138936373697,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "countryiso3code": "DZA",
+      "date": "1992",
+      "value": 23.8694899566974,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "countryiso3code": "DZA",
+      "date": "1991",
+      "value": 23.5997645372107,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "DZ",
+        "value": "Algeria"
+      },
+      "countryiso3code": "DZA",
+      "date": "1990",
+      "value": 24.9370285987113,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2025",
+      "value": 31.5143194274435,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2024",
+      "value": 23.2245098772607,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2023",
+      "value": 21.3443094314355,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2022",
+      "value": 21.8960790564233,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2021",
+      "value": 19.295823265447,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2020",
+      "value": 19.6534798296655,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2019",
+      "value": 24.4799857040743,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2018",
+      "value": 27.9263640649779,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2017",
+      "value": 27.8180475395935,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2016",
+      "value": 19.9010851110947,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2015",
+      "value": 21.6620974671631,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2014",
+      "value": 22.6760563380282,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2013",
+      "value": 23.3551924317351,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2012",
+      "value": 24.3148026512211,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2011",
+      "value": 24.6882065494858,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2010",
+      "value": 26.5871042599039,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2009",
+      "value": 31.596622529265,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2008",
+      "value": 38.6376326074819,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2007",
+      "value": 34.828141783029,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2006",
+      "value": 31.5687226809131,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2005",
+      "value": 32.6090993500464,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2004",
+      "value": 29.5899443643107,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2003",
+      "value": 24.3832335329341,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2002",
+      "value": 22.6708894167326,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2001",
+      "value": 22.330638416504,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "2000",
+      "value": 22.8168185827698,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "1999",
+      "value": 23.3094928478544,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "1998",
+      "value": 25.7132915796799,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "1997",
+      "value": 24.8965776607747,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "1996",
+      "value": 26.1987794245859,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "1995",
+      "value": 27.6960784313726,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "1994",
+      "value": 28.0571428571429,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "1993",
+      "value": 30.090206185567,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "1992",
+      "value": 30.9130122214234,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "1991",
+      "value": 35.3777777777778,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "EG",
+        "value": "Egypt, Arab Rep."
+      },
+      "countryiso3code": "EGY",
+      "date": "1990",
+      "value": 32.5678496868476,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "countryiso3code": "JOR",
+      "date": "2025",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "countryiso3code": "JOR",
+      "date": "2024",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "countryiso3code": "JOR",
+      "date": "2023",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "countryiso3code": "JOR",
+      "date": "2022",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "countryiso3code": "JOR",
+      "date": "2021",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "countryiso3code": "JOR",
+      "date": "2020",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "countryiso3code": "JOR",
+      "date": "2019",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "countryiso3code": "JOR",
+      "date": "2018",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "countryiso3code": "JOR",
+      "date": "2017",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "countryiso3code": "JOR",
+      "date": "2016",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "countryiso3code": "JOR",
+      "date": "2015",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "countryiso3code": "JOR",
+      "date": "2014",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "countryiso3code": "JOR",
+      "date": "2013",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "countryiso3code": "JOR",
+      "date": "2012",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "countryiso3code": "JOR",
+      "date": "2011",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "countryiso3code": "JOR",
+      "date": "2010",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "countryiso3code": "JOR",
+      "date": "2009",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "countryiso3code": "JOR",
+      "date": "2008",
+      "value": null,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "countryiso3code": "JOR",
+      "date": "2007",
+      "value": 91.7593332948654,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "countryiso3code": "JOR",
+      "date": "2006",
+      "value": 87.873053937089,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "countryiso3code": "JOR",
+      "date": "2005",
+      "value": 94.2043111947656,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "countryiso3code": "JOR",
+      "date": "2004",
+      "value": 82.4321150922641,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "countryiso3code": "JOR",
+      "date": "2003",
+      "value": 68.3345553142335,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "countryiso3code": "JOR",
+      "date": "2002",
+      "value": 66.6176037680306,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "countryiso3code": "JOR",
+      "date": "2001",
+      "value": 67.1511856310008,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "countryiso3code": "JOR",
+      "date": "2000",
+      "value": 68.5015086602097,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "countryiso3code": "JOR",
+      "date": "1999",
+      "value": 61.1595884602738,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "countryiso3code": "JOR",
+      "date": "1998",
+      "value": 64.2572979428857,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "countryiso3code": "JOR",
+      "date": "1997",
+      "value": 71.489513947015,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "countryiso3code": "JOR",
+      "date": "1996",
+      "value": 78.1802243668051,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "countryiso3code": "JOR",
+      "date": "1995",
+      "value": 72.8614758097016,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "countryiso3code": "JOR",
+      "date": "1994",
+      "value": 70.4739311041241,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "countryiso3code": "JOR",
+      "date": "1993",
+      "value": 80.1501055504068,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "countryiso3code": "JOR",
+      "date": "1992",
+      "value": 81.4120346775981,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "countryiso3code": "JOR",
+      "date": "1991",
+      "value": 79.8715348208249,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "JO",
+        "value": "Jordan"
+      },
+      "countryiso3code": "JOR",
+      "date": "1990",
+      "value": 89.6128354641266,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2025",
+      "value": 51.1324428826402,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2024",
+      "value": 50.188721310572,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2023",
+      "value": 50.7002810585209,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2022",
+      "value": 56.1946819703061,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2021",
+      "value": 42.3873322350718,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2020",
+      "value": 38.0496964364582,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2019",
+      "value": 41.9050584109511,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2018",
+      "value": 43.4264501517272,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2017",
+      "value": 41.5668968878792,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2016",
+      "value": 40.3880652392646,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2015",
+      "value": 37.2928220354154,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2014",
+      "value": 41.7605801165106,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2013",
+      "value": 43.6044908923701,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2012",
+      "value": 46.1250057504935,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2011",
+      "value": 44.8713872259271,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2010",
+      "value": 39.7530309299157,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2009",
+      "value": 36.6537784764176,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2008",
+      "value": 45.3622482341162,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2007",
+      "value": 39.9218729706872,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2006",
+      "value": 35.0432309816369,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2005",
+      "value": 33.4979280523338,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2004",
+      "value": 30.2024329686458,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2003",
+      "value": 27.6553716837263,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2002",
+      "value": 28.3657481026576,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2001",
+      "value": 28.0960256587196,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "2000",
+      "value": 29.2434779490897,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "1999",
+      "value": 25.9442072035182,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "1998",
+      "value": 24.629923887646,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "1997",
+      "value": 27.2260367814229,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "1996",
+      "value": 25.2595684892918,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "1995",
+      "value": 29.041805345743,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "1994",
+      "value": 26.3750522699829,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "1993",
+      "value": 27.607705117191,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "1992",
+      "value": 28.0911615651847,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "1991",
+      "value": 27.4605277269858,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "MA",
+        "value": "Morocco"
+      },
+      "countryiso3code": "MAR",
+      "date": "1990",
+      "value": 30.0673669130572,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "countryiso3code": "TUN",
+      "date": "2025",
+      "value": 54.7944728488274,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "countryiso3code": "TUN",
+      "date": "2024",
+      "value": 56.2968591755414,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "countryiso3code": "TUN",
+      "date": "2023",
+      "value": 59.0894641022935,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "countryiso3code": "TUN",
+      "date": "2022",
+      "value": 64.7698546733647,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "countryiso3code": "TUN",
+      "date": "2021",
+      "value": 51.8532117623985,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "countryiso3code": "TUN",
+      "date": "2020",
+      "value": 46.3415287262734,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "countryiso3code": "TUN",
+      "date": "2019",
+      "value": 56.3822840334945,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "countryiso3code": "TUN",
+      "date": "2018",
+      "value": 58.3860760894097,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "countryiso3code": "TUN",
+      "date": "2017",
+      "value": 54.0884116006529,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "countryiso3code": "TUN",
+      "date": "2016",
+      "value": 48.7973687883644,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "countryiso3code": "TUN",
+      "date": "2015",
+      "value": 48.848691902871,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "countryiso3code": "TUN",
+      "date": "2014",
+      "value": 53.159638737738,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "countryiso3code": "TUN",
+      "date": "2013",
+      "value": 54.0652513616158,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "countryiso3code": "TUN",
+      "date": "2012",
+      "value": 55.6378761572116,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "countryiso3code": "TUN",
+      "date": "2011",
+      "value": 54.0517255325681,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "countryiso3code": "TUN",
+      "date": "2010",
+      "value": 52.1912811425565,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "countryiso3code": "TUN",
+      "date": "2009",
+      "value": 47.9770677537442,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "countryiso3code": "TUN",
+      "date": "2008",
+      "value": 58.6908302757937,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "countryiso3code": "TUN",
+      "date": "2007",
+      "value": 52.9811789950767,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "countryiso3code": "TUN",
+      "date": "2006",
+      "value": 47.912414055363,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "countryiso3code": "TUN",
+      "date": "2005",
+      "value": 45.3189558405579,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "countryiso3code": "TUN",
+      "date": "2004",
+      "value": 44.7272680458823,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "countryiso3code": "TUN",
+      "date": "2003",
+      "value": 42.9067768819332,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "countryiso3code": "TUN",
+      "date": "2002",
+      "value": 44.5573413735669,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "countryiso3code": "TUN",
+      "date": "2001",
+      "value": 46.7353778696167,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "countryiso3code": "TUN",
+      "date": "2000",
+      "value": 42.9090760836329,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "countryiso3code": "TUN",
+      "date": "1999",
+      "value": 39.9260723550291,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "countryiso3code": "TUN",
+      "date": "1998",
+      "value": 41.4596717349713,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "countryiso3code": "TUN",
+      "date": "1997",
+      "value": 41.3866297061464,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "countryiso3code": "TUN",
+      "date": "1996",
+      "value": 43.6109785328039,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "countryiso3code": "TUN",
+      "date": "1995",
+      "value": 48.8100962948193,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "countryiso3code": "TUN",
+      "date": "1994",
+      "value": 47.8721116999077,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "countryiso3code": "TUN",
+      "date": "1993",
+      "value": 47.9656284525677,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "countryiso3code": "TUN",
+      "date": "1992",
+      "value": 46.4650002188854,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "countryiso3code": "TUN",
+      "date": "1991",
+      "value": 45.3203977121575,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "TN",
+        "value": "Tunisia"
+      },
+      "countryiso3code": "TUN",
+      "date": "1990",
+      "value": 50.6042142441081,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkiye"
+      },
+      "countryiso3code": "TUR",
+      "date": "2025",
+      "value": 25.0849063722672,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkiye"
+      },
+      "countryiso3code": "TUR",
+      "date": "2024",
+      "value": 27.0305829100406,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkiye"
+      },
+      "countryiso3code": "TUR",
+      "date": "2023",
+      "value": 33.7696157928943,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkiye"
+      },
+      "countryiso3code": "TUR",
+      "date": "2022",
+      "value": 41.7570614839925,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkiye"
+      },
+      "countryiso3code": "TUR",
+      "date": "2021",
+      "value": 34.5552643235919,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkiye"
+      },
+      "countryiso3code": "TUR",
+      "date": "2020",
+      "value": 31.6498487704686,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkiye"
+      },
+      "countryiso3code": "TUR",
+      "date": "2019",
+      "value": 29.548577767937,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkiye"
+      },
+      "countryiso3code": "TUR",
+      "date": "2018",
+      "value": 31.0972787311468,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkiye"
+      },
+      "countryiso3code": "TUR",
+      "date": "2017",
+      "value": 29.5961595228053,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkiye"
+      },
+      "countryiso3code": "TUR",
+      "date": "2016",
+      "value": 25.2379813745471,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkiye"
+      },
+      "countryiso3code": "TUR",
+      "date": "2015",
+      "value": 26.5941406789482,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkiye"
+      },
+      "countryiso3code": "TUR",
+      "date": "2014",
+      "value": 28.4894493558784,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkiye"
+      },
+      "countryiso3code": "TUR",
+      "date": "2013",
+      "value": 28.6650931929463,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkiye"
+      },
+      "countryiso3code": "TUR",
+      "date": "2012",
+      "value": 28.3619431820769,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkiye"
+      },
+      "countryiso3code": "TUR",
+      "date": "2011",
+      "value": 30.1612264563406,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkiye"
+      },
+      "countryiso3code": "TUR",
+      "date": "2010",
+      "value": 25.3533908870685,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkiye"
+      },
+      "countryiso3code": "TUR",
+      "date": "2009",
+      "value": 23.2812790453404,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkiye"
+      },
+      "countryiso3code": "TUR",
+      "date": "2008",
+      "value": 26.8398720466583,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkiye"
+      },
+      "countryiso3code": "TUR",
+      "date": "2007",
+      "value": 25.8398878465602,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkiye"
+      },
+      "countryiso3code": "TUR",
+      "date": "2006",
+      "value": 26.2699913345528,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkiye"
+      },
+      "countryiso3code": "TUR",
+      "date": "2005",
+      "value": 24.1900326387181,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkiye"
+      },
+      "countryiso3code": "TUR",
+      "date": "2004",
+      "value": 25.1390188595817,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkiye"
+      },
+      "countryiso3code": "TUR",
+      "date": "2003",
+      "value": 23.1734946135067,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkiye"
+      },
+      "countryiso3code": "TUR",
+      "date": "2002",
+      "value": 22.8374839940274,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkiye"
+      },
+      "countryiso3code": "TUR",
+      "date": "2001",
+      "value": 22.6477228745251,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkiye"
+      },
+      "countryiso3code": "TUR",
+      "date": "2000",
+      "value": 22.4412584330653,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkiye"
+      },
+      "countryiso3code": "TUR",
+      "date": "1999",
+      "value": 18.8357467519768,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkiye"
+      },
+      "countryiso3code": "TUR",
+      "date": "1998",
+      "value": 19.7225065361954,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkiye"
+      },
+      "countryiso3code": "TUR",
+      "date": "1997",
+      "value": 21.3220312744105,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkiye"
+      },
+      "countryiso3code": "TUR",
+      "date": "1996",
+      "value": 20.0896066432611,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkiye"
+      },
+      "countryiso3code": "TUR",
+      "date": "1995",
+      "value": 17.6686297382878,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkiye"
+      },
+      "countryiso3code": "TUR",
+      "date": "1994",
+      "value": 20.3837211337284,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkiye"
+      },
+      "countryiso3code": "TUR",
+      "date": "1993",
+      "value": 19.3432849256138,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkiye"
+      },
+      "countryiso3code": "TUR",
+      "date": "1992",
+      "value": 17.345129910515,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkiye"
+      },
+      "countryiso3code": "TUR",
+      "date": "1991",
+      "value": 16.6348815592789,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    },
+    {
+      "indicator": {
+        "id": "NE.IMP.GNFS.ZS",
+        "value": "Imports of goods and services (% of GDP)"
+      },
+      "country": {
+        "id": "TR",
+        "value": "Turkiye"
+      },
+      "countryiso3code": "TUR",
+      "date": "1990",
+      "value": 17.5778926485052,
+      "unit": "",
+      "obs_status": "",
+      "decimal": 1
+    }
+  ]
+]

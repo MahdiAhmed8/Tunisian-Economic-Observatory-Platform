@@ -1,0 +1,7 @@
+indicator,value,unit,period,source,source_url,note
+GDP growth,2.6,% year-on-year,2026 Q1,Tunisia National Institute of Statistics (INS),https://www.ins.tn/en/publication/gross-domestic-product-gdp-first-quarter-2026,Seasonally adjusted real GDP; preliminary quarterly national accounts.
+Inflation,5.3,% year-on-year,June 2026,Tunisia National Institute of Statistics (INS),https://www.ins.tn/publication/indice-des-prix-la-consommation-juin-2026,Consumer price inflation; monthly national release.
+Unemployment,15.0,% of labor force,2026 Q1,Tunisia National Institute of Statistics (INS),https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-premier-trimestre-2026,Quarterly labor force release.
+Public debt,82.4,% of GDP,End-2025,Tunisia Ministry of Finance,https://www.finances.gov.tn/sites/default/files/2026-02/R%C3%A9sultats%20provisoires%20de%20l%27ex%C3%A9cution%20du%20Budget%20%C3%A0%20fin%20D%C3%A9cembre%202025.pdf,Provisional budget execution; outstanding public debt.
+Merchandise exports,34645.2,"million TND, year-to-date",Jan–Jun 2026,Tunisia National Institute of Statistics (INS),https://www.ins.tn/,"Current-price merchandise trade, first six months of 2026."
+Merchandise imports,47214.6,"million TND, year-to-date",Jan–Jun 2026,Tunisia National Institute of Statistics (INS),https://www.ins.tn/,"Current-price merchandise trade, first six months of 2026."

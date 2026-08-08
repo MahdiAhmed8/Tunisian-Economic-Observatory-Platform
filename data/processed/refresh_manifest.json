@@ -1,0 +1,35 @@
+{
+  "generated_at": "2026-08-08T08:19:20.454242+00:00",
+  "world_bank_rows": 2990,
+  "national_latest_rows": 6,
+  "countries": [
+    "TUN",
+    "DZA",
+    "MAR",
+    "EGY",
+    "JOR",
+    "TUR"
+  ],
+  "world_bank_indicators": [
+    "NY.GDP.MKTP.KD.ZG",
+    "NY.GDP.PCAP.KD",
+    "FP.CPI.TOTL.ZG",
+    "SL.UEM.TOTL.ZS",
+    "GC.DOD.TOTL.GD.ZS",
+    "NE.EXP.GNFS.ZS",
+    "NE.IMP.GNFS.ZS",
+    "NE.TRD.GNFS.ZS",
+    "BN.CAB.XOKA.GD.ZS",
+    "SE.SEC.ENRR",
+    "SE.TER.ENRR",
+    "SE.XPD.TOTL.GD.ZS",
+    "SH.XPD.CHEX.GD.ZS",
+    "SP.DYN.LE00.IN",
+    "SH.STA.MMRT",
+    "SP.POP.TOTL"
+  ],
+  "national_sources": [
+    "INS Tunisia",
+    "Tunisia Ministry of Finance"
+  ]
+}
